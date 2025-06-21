@@ -17,11 +17,11 @@ This project is a modern contact form with client-side validation using JavaScri
 
 ## Screenshot
 
-![Contact Form Screenshot](screenshot.png)
+![Contact Form Screenshot](image.png)
 
 ## Live Demo
 
-[View Live](https://your-live-link-here.com)
+[View Live](https://client-side-form-validation-orpin.vercel.app/)
 
 ## How to Run
 1. Download or clone this repository.
